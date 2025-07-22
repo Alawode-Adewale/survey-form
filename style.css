@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #f9f9f9;
+}
+
+.lang-switcher {
+  margin-bottom: 20px;
+}
+
+form {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+label, input, select, textarea {
+  display: block;
+  margin: 10px 0;
+  width: 100%;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px;
+  background: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
